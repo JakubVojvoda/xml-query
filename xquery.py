@@ -1103,8 +1103,8 @@ if __name__=='__main__':
   qf_or_query = 0;
   
   # Napoveda
-  phelp =  "Python script: XQR - XML Query\n"
-  phelp += "Author: xvojvo00@stud.fit.vutbr.cz\n"
+  phelp =  "Python script: XML Query\n"
+  phelp += "Author: Jakub Vojvoda, vojvoda@swdeveloper.sk\n"
   phelp += "Usage:\n"
   phelp += " --help             print this help\n"
   phelp += " --input=filename   input XML file\n"
